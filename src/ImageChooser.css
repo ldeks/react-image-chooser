@@ -1,0 +1,17 @@
+.imc {
+  background-color: LightSlateGray;
+  color: White;
+  font-family: Selima, sans;
+  height: 200px;
+}
+
+.imc img {
+  border: 1px solid WhiteSmoke;
+  padding: 2px;
+  margin: 15px;
+}
+
+.imc img:hover {
+  border: 5px solid Aquamarine;
+  margin: 11px;
+}
